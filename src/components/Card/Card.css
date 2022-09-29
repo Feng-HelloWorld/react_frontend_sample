@@ -1,0 +1,15 @@
+.card {
+  text-align: left;
+  border-radius: 10px;
+  margin: 10px;
+  height: auto;
+}
+
+.post {
+  white-space: pre-line;
+  margin-top: -25px;
+}
+
+.userlink {
+  color: black;
+}
